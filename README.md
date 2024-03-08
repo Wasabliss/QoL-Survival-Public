@@ -269,3 +269,6 @@
 - [cat_jam](https://modrinth.com/mod/x3s69afN) [1.2.1] by shmove
 - [Cull Leaves](https://modrinth.com/mod/GNxdLCoP) [3.3.0] by Motschen, TeamMidnightDust
 - [Falling Leaves](https://modrinth.com/mod/WhbRG4iK) [1.15.4] by Fourmisain, BrekiTomasson, RandomMcSomethin
+
+
+And no I'm not uploading the configs for these since it's too risky
