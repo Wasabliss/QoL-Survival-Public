@@ -276,4 +276,7 @@
 - [Emoji Type](https://modrinth.com/mod/q7vRRpxU) [2.2.3+1.20.4] by CyborgCabbage, Norbiros
 
 
+
+All the Mods run on Fabric Version 0.15.7 on Minecraft 1.20.4
+Maybe will work on Quilt but haven't tested
 And no I'm not uploading the configs for these since it's too risky
